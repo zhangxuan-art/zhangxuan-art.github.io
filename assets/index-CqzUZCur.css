@@ -8,7 +8,7 @@
   .hero .hero-actions{
     position:absolute;
     right:8%;
-    top:calc(190px + 22.4px + 35px + 2.56 * var(--hero-h1-size) + 10px + 14px);
+    top:calc(190px + 22.4px + 35px + 2.56 * var(--hero-h1-size) + 110.25px + 4px);
     margin:0;
     justify-content:flex-end;
   }
